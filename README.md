@@ -1,14 +1,15 @@
-# Personal-[Hackathon](https://en.wikipedia.org/wiki/Hackathon)
-A method to improve my coding skills by doing.
+# 🎉 Personal-[Hackathon](https://en.wikipedia.org/wiki/Hackathon) 🚀
 
-## Ideias
+A fun way to level up my coding skills by doing! 💻💡
 
-1. Cover letter generator
-2. Chatbot with a personality
-3. YouTube summarizer
-4. Information extraction from job postings
-5. Custom web scraper
-6. Searchable database of your documents
-7. Question answering over documents
-8. Clustering social media posts and podcast episodes into topics
-9. Classify business inquiries from e-mails
+## 💡 Awesome Ideas
+
+1. ✨ Cover Letter Generator
+2. 🤖 Chatbot with Personality
+3. 📺 YouTube Summarizer
+4. 📄 Info Extraction from Job Postings
+5. 🔍 Custom Web Scraper
+6. 📚 Searchable Document Database
+7. ❓ Question Answering Over Documents
+8. 🧩 Clustering Social Media Posts & Podcast Episodes
+9. 📧 Classify Business Inquiries from Emails
