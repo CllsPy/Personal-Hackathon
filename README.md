@@ -5,9 +5,9 @@
 # 🎉 Comece por aqui!
 Este repositório tem duas objetivos:  (1) Te ajudar a masterizar as tecnologias as quais possui conhecimento básico-médio e (2) construir um MVP para criar uma evidência do seu aprendizado.
 
-## Para quem é?
+## 💡 Para quem é?
 
-## Como começar?
+## 💡 Como começar?
 
 ## 💡 Awesome Ideas
 
