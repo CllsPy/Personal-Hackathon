@@ -2,8 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/50a3dc14-e101-438b-a5b9-2900d7648813)
 
-
-A fun way to level up my coding skills by doing! 💻💡
+# Comece por aqui!
+Este repositório tem duas objetivos:  (1) Te ajudar a masterizar as tecnologias as quais possui conhecimento básico-médio e (2) construir um MVP para criar uma evidência do seu aprendizado.
 
 ## 💡 Awesome Ideas
 
