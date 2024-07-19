@@ -7,7 +7,7 @@ A fun way to level up my coding skills by doing! 💻💡
 
 ## 💡 Awesome Ideas
 
-1. ✨ Cover Letter Generator
+1. ✨ [Cover Letter Generator](https://github.com/CllsPy/Cover-Letter-Generator)
 2. 🤖 Chatbot with Personality
 3. 📺 YouTube Summarizer
 4. 📄 Info Extraction from Job Postings
