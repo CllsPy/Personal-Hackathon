@@ -1,5 +1,8 @@
 # 🎉 Personal-[Hackathon](https://en.wikipedia.org/wiki/Hackathon) 🚀
 
+![image](https://github.com/user-attachments/assets/50a3dc14-e101-438b-a5b9-2900d7648813)
+
+
 A fun way to level up my coding skills by doing! 💻💡
 
 ## 💡 Awesome Ideas
