@@ -13,6 +13,11 @@ O pouco conhecimento que possuir será o suficiente para embarcar nessa jornada 
 ## 💡 Como começar?
 Para começar é preciso que você `forke` este repositório e crie um outro com o nome do projeto no qual decidiu trabalhar, neste documento serão sugeridos projetos mas é importante adequar a sua realidade de modo que o processo seja desafiador e não causa estresse ou ansiedade por não ter pistas de como iniciar.
 
+## Regras e Sugestões
+1. O projeto deve ser conduziado da forma mais independente possível, resistindo a tentação de respostas prontas ou que fujam de tentativa e erro.
+2. O tempo escolhido pode e deve se adequar  a sua realidade, sugiro que opto por um mínimo de 6h e um máximo de 48h.
+3. Durante o momento deve haver foco absolutado no projeto evitando o uso de redes socais ou do dispositivo móvel durante os períodos de foco, havendo necessidade essas consultas ou uso do dispostivos podem ser feito em intervalos programados, usando a técnica pomodoro (25 minutos de foco intercalados com 5 minutos de descanso).
+
 ## 💡 Awesome Ideas
 
 1. ✨ [Cover Letter Generator](https://github.com/CllsPy/Cover-Letter-Generator)
