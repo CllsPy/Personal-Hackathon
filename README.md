@@ -2,25 +2,27 @@
 
 ![image](https://github.com/user-attachments/assets/50a3dc14-e101-438b-a5b9-2900d7648813)
 
-# 🎉 Comece por aqui!
-Este repositório tem duas objetivos:  (1) Te ajudar a masterizar as tecnologias as quais possui conhecimento básico-médio e (2) construir um MVP para criar uma evidência do seu aprendizado.
+# 🎉 **Start Here!**
+This repository has two main objectives: 
+1. **Help you master technologies** you have basic to intermediate knowledge of.
+2. **Build an MVP** to demonstrate your learning.
 
-## 💡 Para quem é?
-Este repositório tem como ênfases projetos com Inteligência Artificial e não é destinado a iniciados na programação é preferível que se tenha conhecimento básico de alguma linguagem de programação e de preferências alguns frameworks, por exemplo: Python, pandas, Numpy, Streamlit.
+## 💡 **Who is it for?**
+This repository focuses on projects with **Artificial Intelligence** and is not intended for beginners in programming. It’s preferable to have basic knowledge of a programming language and some frameworks, such as: Python, pandas, Numpy, Streamlit.
 
-O pouco conhecimento que possuir será o suficiente para embarcar nessa jornada de modo que a outra habilidade mais importante é a de buscar soluções na internet e pulverizar projetos em pequenas partes de modo que ele possa ser execultado gradualmente.
+The basic knowledge you have will be enough to start this journey. The most important skill is to find solutions online and break projects into small parts for gradual execution.
 
-## 💡 Como começar?
-Para começar é preciso que você `forke` este repositório e crie um outro com o nome do projeto no qual decidiu trabalhar, neste documento serão sugeridos projetos mas é importante adequar a sua realidade de modo que o processo seja desafiador e não causa estresse ou ansiedade por não ter pistas de como iniciar.
+## 💡 **How to start?**
+1. `Fork` this repository.
+2. Create another one with the name of the project you decided to work on.
+3. Adapt the suggested projects to your reality, so the process is challenging but not stressful or anxiety-inducing.
 
-## Regras e Sugestões
-1. O projeto deve ser conduziado da forma mais independente possível, resistindo a tentação de respostas prontas ou que fujam de tentativa e erro.
-2. O tempo escolhido pode e deve se adequar  a sua realidade, sugiro que opto por um mínimo de 6h e um máximo de 48h.
-3. Durante o momento deve haver foco absolutado no projeto evitando o uso de redes socais ou do dispositivo móvel durante os períodos de foco, havendo necessidade essas consultas ou uso do dispostivos podem ser feito em intervalos programados, usando a técnica pomodoro (25 minutos de foco intercalados com 5 minutos de descanso).
+## **Rules and Suggestions**
+1. Conduct the project as independently as possible, resisting the temptation to look for ready-made answers.
+2. Adjust the time chosen to your reality. I suggest a minimum of 6 hours and a maximum of 48 hours.
+3. During the project, maintain absolute focus, avoiding the use of social networks or mobile devices. Use the Pomodoro technique (25 minutes of focus followed by 5 minutes of rest).
 
-
-## 💡 Awesome Ideas
-
+## 💡 **Awesome Ideas**
 1. ✨ [Cover Letter Generator](https://github.com/CllsPy/Cover-Letter-Generator)
 2. 🤖 Chatbot with Personality
 3. 📺 YouTube Summarizer
