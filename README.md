@@ -7,6 +7,9 @@ Este repositório tem dois principais objetivos:
 1. **Ajudar você a dominar tecnologias** das quais você tem conhecimento básico a intermediário.
 2. **Construir um MVP** para demonstrar seu aprendizado.
 
+## 💡 **O que é um Hackathon?**
+Um **Hackathon** é um evento onde programadores, designers e outros profissionais de tecnologia se reúnem para colaborar intensamente em projetos de software. Geralmente, os participantes trabalham em equipe para criar soluções inovadoras em um curto período de tempo, que pode variar de algumas horas a vários dias. O objetivo é desenvolver protótipos funcionais ou produtos mínimos viáveis (MVPs) que demonstrem novas ideias ou abordagens para problemas específicos.
+
 ## 💡 **Para quem é?**
 Este repositório foca em projetos com **Inteligência Artificial** e não é destinado a iniciantes na programação. É preferível ter conhecimento básico de uma linguagem de programação e alguns frameworks, como: Python, pandas, Numpy, Streamlit.
 
@@ -22,7 +25,7 @@ O conhecimento básico que você tem será suficiente para iniciar esta jornada.
 2. Ajuste o tempo escolhido à sua realidade. Sugiro um mínimo de 6 horas e um máximo de 48 horas.
 3. Durante o projeto, mantenha foco absoluto, evitando o uso de redes sociais ou dispositivos móveis. Utilize a técnica Pomodoro (25 minutos de foco seguidos por 5 minutos de descanso).
 
-## 💡 **Ideias Incríveis**
+## 💡 **Sugestões de Projetos com Largue Language Models**
 1. ✨ [Gerador de Carta de Apresentação](https://github.com/CllsPy/Cover-Letter-Generator)
 2. 🤖 Chatbot com Personalidade
 3. 📺 Resumidor de YouTube
