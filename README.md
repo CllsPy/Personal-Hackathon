@@ -18,6 +18,7 @@ Para começar é preciso que você `forke` este repositório e crie um outro com
 2. O tempo escolhido pode e deve se adequar  a sua realidade, sugiro que opto por um mínimo de 6h e um máximo de 48h.
 3. Durante o momento deve haver foco absolutado no projeto evitando o uso de redes socais ou do dispositivo móvel durante os períodos de foco, havendo necessidade essas consultas ou uso do dispostivos podem ser feito em intervalos programados, usando a técnica pomodoro (25 minutos de foco intercalados com 5 minutos de descanso).
 
+
 ## 💡 Awesome Ideas
 
 1. ✨ [Cover Letter Generator](https://github.com/CllsPy/Cover-Letter-Generator)
