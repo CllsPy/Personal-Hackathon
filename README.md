@@ -25,7 +25,9 @@ O conhecimento básico que você tem será suficiente para iniciar esta jornada.
 2. Ajuste o tempo escolhido à sua realidade. Sugiro um mínimo de 6 horas e um máximo de 48 horas.
 3. Durante o projeto, mantenha foco absoluto, evitando o uso de redes sociais ou dispositivos móveis. Utilize a técnica Pomodoro (25 minutos de foco seguidos por 5 minutos de descanso).
 
-## 💡 **Sugestões de Projetos com Largue Language Models**
+## 💡 **Sugestões de Projetos**
+
+**Usando Large Languages Models**
 1. ✨ [Gerador de Carta de Apresentação](https://github.com/CllsPy/Cover-Letter-Generator)
 2. 🤖 Chatbot com Personalidade
 3. 📺 Resumidor de YouTube
