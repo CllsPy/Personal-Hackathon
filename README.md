@@ -11,6 +11,7 @@ Este repositório tem como ênfases projetos com Inteligência Artificial e não
 O pouco conhecimento que possuir será o suficiente para embarcar nessa jornada de modo que a outra habilidade mais importante é a de buscar soluções na internet e pulverizar projetos em pequenas partes de modo que ele possa ser execultado gradualmente.
 
 ## 💡 Como começar?
+Para começar é preciso que você `forke` este repositório e crie um outro com o nome do projeto no qual decidiu trabalhar, neste documento serão sugeridos projetos mas é importante adequar a sua realidade de modo que o processo seja desafiador e não causa estresse ou ansiedade por não ter pistas de como iniciar.
 
 ## 💡 Awesome Ideas
 
