@@ -13,7 +13,7 @@ This repository focuses on projects with **Artificial Intelligence** and is not 
 The basic knowledge you have will be enough to start this journey. The most important skill is to find solutions online and break projects into small parts for gradual execution.
 
 ## 💡 **How to start?**
-1. `Fork` this repository.
+1. [`Fork`](https://github.com/CllsPy/Personal-Hackathon/fork) this repository.
 2. Create another one with the name of the project you decided to work on.
 3. Adapt the suggested projects to your reality, so the process is challenging but not stressful or anxiety-inducing.
 
