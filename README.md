@@ -30,7 +30,7 @@ O conhecimento básico que você tem será suficiente para iniciar esta jornada.
 
 ## 💡 **Ideias Incríveis**
 1. ✨ [Gerador de Carta de Apresentação](https://github.com/CllsPy/Cover-Letter-Generator)
-2. [Sistema de recomendação com LLMs]
+2. [Sistema de recomendação com LLMs](https://github.com/CllsPy/-Recommendation-System-with-Hugging-Face-Transformers/tree/main)
 3. 🤖 Chatbot com Personalidade
 4. 📺 Resumidor de YouTube
 5. 📄 Extração de Informações de Vagas de Emprego
