@@ -30,11 +30,12 @@ O conhecimento básico que você tem será suficiente para iniciar esta jornada.
 
 ## 💡 **Ideias Incríveis**
 1. ✨ [Gerador de Carta de Apresentação](https://github.com/CllsPy/Cover-Letter-Generator)
-2. 🤖 Chatbot com Personalidade
-3. 📺 Resumidor de YouTube
-4. 📄 Extração de Informações de Vagas de Emprego
-5. 🔍 Scraper Web Personalizado
-6. 📚 Banco de Dados de Documentos Pesquisável
-7. ❓ Respostas a Perguntas sobre Documentos
-8. 🧩 Agrupamento de Postagens em Redes Sociais e Episódios de Podcasts
-9. 📧 Classificação de Consultas de Negócios a partir de E-mails
+2. [Sistema de recomendação com LLMs]
+3. 🤖 Chatbot com Personalidade
+4. 📺 Resumidor de YouTube
+5. 📄 Extração de Informações de Vagas de Emprego
+6. 🔍 Scraper Web Personalizado
+7. 📚 Banco de Dados de Documentos Pesquisável
+8. ❓ Respostas a Perguntas sobre Documentos
+9. 🧩 Agrupamento de Postagens em Redes Sociais e Episódios de Podcasts
+10. 📧 Classificação de Consultas de Negócios a partir de E-mails
